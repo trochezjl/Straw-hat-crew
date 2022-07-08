@@ -13,6 +13,6 @@ Blog para hablar sombre los mugiwaras
 * Brook = Músico
 * Jinbe = Timonel
 * Yamato = ???
-
+* l = l
 
 Road to Laugh Tale **GOD VALLEY**.
